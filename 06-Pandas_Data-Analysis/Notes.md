@@ -5,6 +5,8 @@
 
     )_  https://github.com/mrdbourke/zero-to-mastery-ml
 
+    )_  https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
 
 
 # Basics;
